@@ -42,10 +42,10 @@ Follow our official channels for the latest updates and to join the discussion:
     </tr>
     <tr>
       <td align="center">
-        <img src="./assets/wechat_QR.png" alt="WeChat QR Code" width="100%">
+        <img src="https://raw.githubusercontent.com/HippoxHQ/About/main/assets/wechat_QR.png" alt="WeChat QR Code" width="100%">
       </td>
       <td align="center">
-        <img src="./assets/qq_QR.png" alt="QQ QR Code" width="40%">
+        <img src="https://raw.githubusercontent.com/HippoxHQ/About/main/assets/qq_QR.png" alt="QQ QR Code" width="40%">
       </td>
     </tr>
     <tr>

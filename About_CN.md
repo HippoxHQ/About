@@ -42,10 +42,10 @@ HippoxOS 是一个面向 AI Agent 时代的现代化操作系统。它将大语�
     </tr>
     <tr>
       <td align="center">
-        <img src="./assets/wechat_QR.png" alt="微信二维码" width="100%">
+        <img src="https://raw.githubusercontent.com/HippoxHQ/About/main/assets/wechat_QR.png" alt="微信二维码" width="100%">
       </td>
       <td align="center">
-        <img src="./assets/qq_QR.png" alt="QQ二维码" width="40%">
+        <img src="https://raw.githubusercontent.com/HippoxHQ/About/main/assets/qq_QR.png" alt="QQ二维码" width="40%">
       </td>
     </tr>
     <tr>
