@@ -31,3 +31,26 @@ HippoxOS 是一个面向 AI Agent 时代的现代化操作系统。它将大语�
 - **Medium**: [Hippox on Medium](https://hippox.medium.com/)
 - **B站**: [HippoxOS 的空间](https://space.bilibili.com/9667583)
 - **YouTube**: [HippoxOS 频道](https://www.youtube.com/@HippoxOS)
+
+## 扫码加入社群
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>微信二维码</strong></td>
+      <td align="center"><strong>QQ二维码</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="./assets/wechat_QR.png" alt="微信二维码" width="100%">
+      </td>
+      <td align="center">
+        <img src="./assets/qq_QR.png" alt="QQ二维码" width="40%">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">扫码关注公众号</td>
+      <td align="center">扫码加入QQ群</td>
+    </tr>
+  </table>
+</div>

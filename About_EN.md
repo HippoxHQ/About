@@ -31,3 +31,26 @@ Follow our official channels for the latest updates and to join the discussion:
 - **Medium**: [Hippox on Medium](https://hippox.medium.com/)
 - **Bilibili**: [HippoxOS Space](https://space.bilibili.com/9667583)
 - **YouTube**: [HippoxOS Channel](https://www.youtube.com/@HippoxOS)
+
+## Scan to Join Our Community
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><strong>WeChat QR Code</strong></td>
+      <td align="center"><strong>QQ QR Code</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="./assets/wechat_QR.png" alt="WeChat QR Code" width="100%">
+      </td>
+      <td align="center">
+        <img src="./assets/qq_QR.png" alt="QQ QR Code" width="40%">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Follow our WeChat Official Account</td>
+      <td align="center">Join our QQ Group</td>
+    </tr>
+  </table>
+</div>
