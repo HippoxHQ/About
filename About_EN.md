@@ -41,11 +41,11 @@ Follow our official channels for the latest updates and to join the discussion:
       <td align="center"><strong>QQ QR Code</strong></td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" style="width: 50%">
         <img src="https://raw.githubusercontent.com/HippoxHQ/About/main/assets/wechat_QR.png" alt="WeChat QR Code" width="100%">
       </td>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/HippoxHQ/About/main/assets/qq_QR.png" alt="QQ QR Code" width="40%">
+      <td align="center" style="width: 50%">
+        <img src="https://raw.githubusercontent.com/HippoxHQ/About/main/assets/qq_QR.png" alt="QQ QR Code" width="100%">
       </td>
     </tr>
     <tr>
