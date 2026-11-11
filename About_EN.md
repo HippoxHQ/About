@@ -10,17 +10,21 @@ HippoxOS is a modern operating system built for the AI Agent era. It deeply inte
 - **Full-Stack Ready**: Built-in code editor, terminal, and version control support
 - **Data Visualization**: Integrated charting, mapping, and 3D sandbox tools
 - **Video Editing**: Lightweight video editing with AI-assisted capabilities
+- **Audio Editing**: Multi-track audio editing with AI-assisted audio processing
+- **Pixel Animation Editing**: Frame-by-frame pixel art and animation creation with AI assistance
 
 ## Subsystems
 
-| Subsystem         | Description                               |
-| ----------------- | ----------------------------------------- |
-| General Chat      | Main chat interface for LLM interaction   |
-| Code Editor       | AI-assisted programming with Diff preview |
-| Chart Analysis    | Financial data visualization              |
-| Map Visualization | Geographic data rendering                 |
-| 3D Sandbox        | Interactive Three.js 3D scenes            |
-| Video Editor      | Lightweight AI-powered video editing      |
+| Subsystem              | Description                                         |
+| ---------------------- | --------------------------------------------------- |
+| General Chat           | Main chat interface for LLM interaction             |
+| Video Editor           | Lightweight AI-powered video editing                |
+| Audio Editor           | Multi-track audio editing and AI audio processing   |
+| Pixel Animation Editor | Frame-by-frame pixel art and animation, AI-assisted |
+| Code Editor            | AI-assisted programming with Diff preview           |
+| Chart Analysis         | Financial data visualization                        |
+| Map Visualization      | Geographic data rendering                           |
+| 3D Sandbox             | Interactive Three.js 3D scenes                      |
 
 ## Community & Connect
 
